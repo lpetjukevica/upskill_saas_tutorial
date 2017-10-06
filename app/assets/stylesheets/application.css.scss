@@ -13,7 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ 
+ @import 'bootstrap-sprockets';
+ @import 'bootstrap';
+ 
 h1,h2,h3 {
-    Font-Family: 'Open Sans' Sans-serif;
+  Font-Family: 'Open Sans' Sans-serif;
 }
 
